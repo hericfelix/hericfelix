@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hi there, I'm Heric! 👋
+---
 
-<!--
-**hericfelix/hericfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Heric Felix Martins, I live in Brazil, and I'm currently taking a Full Stack Web Development class at Kenzie Academy Brasil.
 
-Here are some ideas to get you started:
+## My technologies: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Git" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="JS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="TS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+<img align="center" alt="React" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Redux" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+
+
+## My hobbies:
+:guitar: Play the guitar
+
+:microphone: Sing
+
+:book: Read
+
+:swimmer: Swim
+
+
+## Connect with me:
+<div>
+<a href="https://linkedin.in/hericfelix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+<div>
+<img height="180em" src=https://github-readme-stats.vercel.app/api?username=hericfelix&count_private=true&show_icons=true&theme=midnight-purple>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericfelix&layout=compact&langs_count=10&theme=midnight-purple"/>
+</div>
