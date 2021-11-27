@@ -33,5 +33,5 @@ My name is Heric Felix Martins, I live in Brazil, and I'm currently taking a Ful
 
 <div width= "100%">
 <img  height="180em" src=https://github-readme-stats.vercel.app/api?username=hericfelix&count_private=true&show_icons=true&theme=midnight-purple>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericfelix&count_private=true&layout=compact&langs_count=10&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hericfelix&layout=compact&theme=midnight-purple"/>
 </div>
