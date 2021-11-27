@@ -21,9 +21,6 @@ My name is Heric Felix Martins, I live in Brazil, and I'm currently taking a Ful
 
 :book: Read
 
-:swimmer: Swim
-
-
 ## Connect with me:
 <div>
 <a href="https://linkedin.in/hericfelix" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
