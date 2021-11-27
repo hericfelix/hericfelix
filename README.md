@@ -1,6 +1,6 @@
 # Hi there, I'm Heric! 👋
 
-My name is Heric Felix Martins, I live in Brazil, and I'm currently taking a Full Stack Web Development class at Kenzie Academy Brasil.
+My name is Heric Felix Martins, I live in Brazil, and I'm currently taking a Full Stack Web Development class at Kenzie Academy Brazil.
 
 ## My technologies: 
 <div style="display: inline_block">
