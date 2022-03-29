@@ -11,6 +11,12 @@ My name is Heric Felix Martins, I live in Brazil, and I'm currently taking a Ful
 <img  alt="TS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
 <img  alt="React" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 <img  alt="Redux" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"/>
+  <img  alt="Python" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img  alt="Flask" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"/>
+  <img  alt="NodeJS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
+  <img  alt="Express" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
+  <img  alt="PostgreSQL" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
+  <img  alt="MongoDB" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
 </div>
 
 ## My hobbies:
